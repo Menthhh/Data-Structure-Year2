@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+
+.header{
+    height: 50vh;
+    background-color: beige;
+    
+}
+
+/*make image fit the page*/
+
+
+.nav ul{
+  
+    background-color: transparent;
+    
+}
+
+.nav ul li{
+    display: inline-block;
+    display: fixed;
+    float: right;
+    padding: 20px;
+    margin-right: 20px;
+    
+}
+
+.nav ul li h1 {
+    color: aliceblue;
+    
+}
+
+.nav ul li a {
+    
+    text-decoration: none;
+    padding: 20px;
+    color: rgb(0, 0, 0);
+    font-size: 1.2rem;
+}
+
+.nav ul li a:hover{
+    border-bottom: 1px solid black;
+    padding-bottom: 10px;
+    color: rgb(127, 69, 236);
+    background-color: aquamarine;
+    /*delay time underline*/
+    transition: 0.5s;
+}
+

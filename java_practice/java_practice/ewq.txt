@@ -1,0 +1,16 @@
+-Udemy checked
+
+-lecture
+
+Big-O + operation count
+Array
+LinkedList 
+Stack + RPN
+Queue + Shunting yard  O(n)
+
+-Lab
+
+-coding exercise
+
+-java  syntax
+
